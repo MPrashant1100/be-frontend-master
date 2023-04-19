@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div>
         <h2>This is contact page</h2>
-        <button onClick={getNumber}>Mobile Number</button>
+        <button onClick={getNumber}>Mobile Number!!</button>
     </div>
   )
 }
